@@ -10,5 +10,4 @@ Download this tool : <a href="https://github.com/shayansaha85/ramit/raw/master/d
 | Python3 |
 | :--: |
 | pyinstaller |
-| :--: |
 | memory-profiler |
